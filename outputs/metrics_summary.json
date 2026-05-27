@@ -1,0 +1,13 @@
+{
+  "tanggal": "2026-05-28 00:15",
+  "dataset": "TensorFlow Flowers (3 kelas: daisy, roses, sunflowers)",
+  "total_gambar": 2396,
+  "n_train": 1677,
+  "n_val": 359,
+  "n_test": 360,
+  "epochs_ran": 30,
+  "best_val_acc": 0.8719,
+  "best_val_loss": 0.3709,
+  "test_accuracy": 0.8833,
+  "test_loss": 0.4545
+}

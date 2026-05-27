@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+       daisy       0.87      0.85      0.86       136
+       roses       0.92      0.84      0.88       129
+  sunflowers       0.80      0.91      0.85        95
+
+    accuracy                           0.86       360
+   macro avg       0.86      0.87      0.86       360
+weighted avg       0.87      0.86      0.86       360
